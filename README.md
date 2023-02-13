@@ -1,5 +1,5 @@
 Hello 👋
-### Here is what I'm working on:
+Here is what I'm working on:
 
 - I'm currently building projects in SQL and Python
 - I’m currently learning Javascript, Machine Learning
