@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Raghav Raahul Manoharan Jayanthi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rrmj/)](https://www.linkedin.com/in/rrmj/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Raghav-Raahul)](https://stackoverflow.com/users/21152040/raghav-raahul)
 
-I'm a fourth year college student with interest in programming. I'm particularly excited about the use of programming in software development and data science. I''m proficient in Python, SQL, Java and MATLAB. I'm working on learning HTML, CSS, and Javascript to improve my web development and app development skills.
+I'm a fourth year college student with interest in programming. I'm particularly excited about the use of programming in software development and data science. I'm proficient in Python, SQL, Java and MATLAB. I'm working on learning HTML, CSS, and Javascript to improve my web development and app development skills.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/raghav0900/count.svg)
